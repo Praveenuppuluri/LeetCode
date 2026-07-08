@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Praveenuppuluri/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Praveenuppuluri/LeetCode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/Praveenuppuluri/LeetCode/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Praveenuppuluri/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Praveenuppuluri/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Praveenuppuluri/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0392-is-subsequence](https://github.com/Praveenuppuluri/LeetCode/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Praveenuppuluri/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Praveenuppuluri/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
