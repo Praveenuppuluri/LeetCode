@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Praveenuppuluri/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Praveenuppuluri/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Praveenuppuluri/LeetCode/tree/master/0704-binary-search) |
+| [0930-binary-subarrays-with-sum](https://github.com/Praveenuppuluri/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Praveenuppuluri/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0525-contiguous-array](https://github.com/Praveenuppuluri/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Praveenuppuluri/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Praveenuppuluri/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 ## String Matching
 |  |
 | ------- |
@@ -45,4 +47,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/Praveenuppuluri/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Praveenuppuluri/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Praveenuppuluri/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Praveenuppuluri/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
