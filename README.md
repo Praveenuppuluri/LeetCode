@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Praveenuppuluri/LeetCode/tree/master/0036-valid-sudoku) |
 | [0525-contiguous-array](https://github.com/Praveenuppuluri/LeetCode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Praveenuppuluri/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Praveenuppuluri/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Praveenuppuluri/LeetCode/tree/master/0036-valid-sudoku) |
 | [0205-isomorphic-strings](https://github.com/Praveenuppuluri/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0525-contiguous-array](https://github.com/Praveenuppuluri/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Praveenuppuluri/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Praveenuppuluri/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Praveenuppuluri/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Praveenuppuluri/LeetCode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
