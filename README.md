@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Praveenuppuluri/LeetCode/tree/master/0101-symmetric-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Praveenuppuluri/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Praveenuppuluri/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0854-k-similar-strings](https://github.com/Praveenuppuluri/LeetCode/tree/master/0854-k-similar-strings) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Praveenuppuluri/LeetCode/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Sorting
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Praveenuppuluri/LeetCode/tree/master/0437-path-sum-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Praveenuppuluri/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Praveenuppuluri/LeetCode/tree/master/0687-longest-univalue-path) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Praveenuppuluri/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Praveenuppuluri/LeetCode/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Stack
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Praveenuppuluri/LeetCode/tree/master/0437-path-sum-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Praveenuppuluri/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Praveenuppuluri/LeetCode/tree/master/0687-longest-univalue-path) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Praveenuppuluri/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Praveenuppuluri/LeetCode/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Binary Tree
 |  |
@@ -184,4 +187,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Praveenuppuluri/LeetCode/tree/master/0437-path-sum-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Praveenuppuluri/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Praveenuppuluri/LeetCode/tree/master/0687-longest-univalue-path) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Praveenuppuluri/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Praveenuppuluri/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
