@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Praveenuppuluri/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/Praveenuppuluri/LeetCode/tree/master/0036-valid-sudoku) |
 | [0525-contiguous-array](https://github.com/Praveenuppuluri/LeetCode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Praveenuppuluri/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Praveenuppuluri/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Praveenuppuluri/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Praveenuppuluri/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Praveenuppuluri/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Praveenuppuluri/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Praveenuppuluri/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
