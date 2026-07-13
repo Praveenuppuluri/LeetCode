@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Praveenuppuluri/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Praveenuppuluri/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Praveenuppuluri/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Praveenuppuluri/LeetCode/tree/master/0687-longest-univalue-path) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Praveenuppuluri/LeetCode/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Stack
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Praveenuppuluri/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Praveenuppuluri/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Praveenuppuluri/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Praveenuppuluri/LeetCode/tree/master/0687-longest-univalue-path) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Praveenuppuluri/LeetCode/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Binary Tree
 |  |
@@ -174,4 +176,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Praveenuppuluri/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Praveenuppuluri/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Praveenuppuluri/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Praveenuppuluri/LeetCode/tree/master/0687-longest-univalue-path) |
 <!---LeetCode Topics End-->
