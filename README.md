@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Praveenuppuluri/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Praveenuppuluri/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Praveenuppuluri/LeetCode/tree/master/0036-valid-sudoku) |
+| [0051-n-queens](https://github.com/Praveenuppuluri/LeetCode/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/Praveenuppuluri/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Praveenuppuluri/LeetCode/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Praveenuppuluri/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Praveenuppuluri/LeetCode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Praveenuppuluri/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Praveenuppuluri/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Depth-First Search
