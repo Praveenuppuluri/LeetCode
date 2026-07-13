@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Praveenuppuluri/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/Praveenuppuluri/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Praveenuppuluri/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Praveenuppuluri/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0437-path-sum-iii](https://github.com/Praveenuppuluri/LeetCode/tree/master/0437-path-sum-iii) |
+| [0572-subtree-of-another-tree](https://github.com/Praveenuppuluri/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Praveenuppuluri/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Praveenuppuluri/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Praveenuppuluri/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Praveenuppuluri/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Praveenuppuluri/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0437-path-sum-iii](https://github.com/Praveenuppuluri/LeetCode/tree/master/0437-path-sum-iii) |
+| [0572-subtree-of-another-tree](https://github.com/Praveenuppuluri/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Praveenuppuluri/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Praveenuppuluri/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Praveenuppuluri/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Praveenuppuluri/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Praveenuppuluri/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0437-path-sum-iii](https://github.com/Praveenuppuluri/LeetCode/tree/master/0437-path-sum-iii) |
+| [0572-subtree-of-another-tree](https://github.com/Praveenuppuluri/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Praveenuppuluri/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Praveenuppuluri/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Praveenuppuluri/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -199,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Praveenuppuluri/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Praveenuppuluri/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
