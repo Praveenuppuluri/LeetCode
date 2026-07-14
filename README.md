@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Praveenuppuluri/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0854-k-similar-strings](https://github.com/Praveenuppuluri/LeetCode/tree/master/0854-k-similar-strings) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Praveenuppuluri/LeetCode/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Praveenuppuluri/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Sorting
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/Praveenuppuluri/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Praveenuppuluri/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Praveenuppuluri/LeetCode/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Praveenuppuluri/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Stack
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Praveenuppuluri/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Praveenuppuluri/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
@@ -256,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Praveenuppuluri/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Praveenuppuluri/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
