@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Praveenuppuluri/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Praveenuppuluri/LeetCode/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Praveenuppuluri/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0152-maximum-product-subarray](https://github.com/Praveenuppuluri/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Praveenuppuluri/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Praveenuppuluri/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0525-contiguous-array](https://github.com/Praveenuppuluri/LeetCode/tree/master/0525-contiguous-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Praveenuppuluri/LeetCode/tree/master/0044-wildcard-matching) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Praveenuppuluri/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Praveenuppuluri/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/Praveenuppuluri/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Praveenuppuluri/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Praveenuppuluri/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0392-is-subsequence](https://github.com/Praveenuppuluri/LeetCode/tree/master/0392-is-subsequence) |
