@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Praveenuppuluri/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Praveenuppuluri/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/Praveenuppuluri/LeetCode/tree/master/0044-wildcard-matching) |
+| [0072-edit-distance](https://github.com/Praveenuppuluri/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Praveenuppuluri/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Praveenuppuluri/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Praveenuppuluri/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Praveenuppuluri/LeetCode/tree/master/0044-wildcard-matching) |
+| [0072-edit-distance](https://github.com/Praveenuppuluri/LeetCode/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Praveenuppuluri/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Praveenuppuluri/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Praveenuppuluri/LeetCode/tree/master/0152-maximum-product-subarray) |
