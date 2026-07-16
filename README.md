@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Praveenuppuluri/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Praveenuppuluri/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Praveenuppuluri/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2596-check-knight-tour-configuration](https://github.com/Praveenuppuluri/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Praveenuppuluri/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Praveenuppuluri/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Praveenuppuluri/LeetCode/tree/master/0079-word-search) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Praveenuppuluri/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2596-check-knight-tour-configuration](https://github.com/Praveenuppuluri/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-k-similar-strings](https://github.com/Praveenuppuluri/LeetCode/tree/master/0854-k-similar-strings) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Praveenuppuluri/LeetCode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Praveenuppuluri/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2596-check-knight-tour-configuration](https://github.com/Praveenuppuluri/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Sorting
 |  |
 | ------- |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Praveenuppuluri/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Praveenuppuluri/LeetCode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Praveenuppuluri/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2596-check-knight-tour-configuration](https://github.com/Praveenuppuluri/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Stack
 |  |
 | ------- |
@@ -269,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Praveenuppuluri/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+## Simulation
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Praveenuppuluri/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
