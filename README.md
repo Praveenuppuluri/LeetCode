@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Praveenuppuluri/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Praveenuppuluri/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Praveenuppuluri/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0494-target-sum](https://github.com/Praveenuppuluri/LeetCode/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/Praveenuppuluri/LeetCode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Praveenuppuluri/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Praveenuppuluri/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Praveenuppuluri/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Praveenuppuluri/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0392-is-subsequence](https://github.com/Praveenuppuluri/LeetCode/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/Praveenuppuluri/LeetCode/tree/master/0494-target-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Praveenuppuluri/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Praveenuppuluri/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/Praveenuppuluri/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Praveenuppuluri/LeetCode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Praveenuppuluri/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Praveenuppuluri/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/Praveenuppuluri/LeetCode/tree/master/0494-target-sum) |
 ## Depth-First Search
 |  |
 | ------- |
