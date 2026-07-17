@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Praveenuppuluri/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Praveenuppuluri/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0983-minimum-cost-for-tickets](https://github.com/Praveenuppuluri/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Praveenuppuluri/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Praveenuppuluri/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Praveenuppuluri/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Praveenuppuluri/LeetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Praveenuppuluri/LeetCode/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Praveenuppuluri/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Praveenuppuluri/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Praveenuppuluri/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Praveenuppuluri/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Praveenuppuluri/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Simulation
 |  |
@@ -327,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Praveenuppuluri/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Praveenuppuluri/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
