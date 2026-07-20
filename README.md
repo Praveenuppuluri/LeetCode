@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Praveenuppuluri/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Praveenuppuluri/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0983-minimum-cost-for-tickets](https://github.com/Praveenuppuluri/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
+| [1260-shift-2d-grid](https://github.com/Praveenuppuluri/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Praveenuppuluri/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Praveenuppuluri/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Praveenuppuluri/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Praveenuppuluri/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Praveenuppuluri/LeetCode/tree/master/0079-word-search) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Praveenuppuluri/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1260-shift-2d-grid](https://github.com/Praveenuppuluri/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2596-check-knight-tour-configuration](https://github.com/Praveenuppuluri/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Divide and Conquer
 |  |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Praveenuppuluri/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2596-check-knight-tour-configuration](https://github.com/Praveenuppuluri/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Bit Manipulation
 |  |
