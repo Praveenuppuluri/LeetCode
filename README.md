@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Praveenuppuluri/LeetCode/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/Praveenuppuluri/LeetCode/tree/master/0044-wildcard-matching) |
 ## Rolling Hash
 |  |
@@ -349,6 +350,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Praveenuppuluri/LeetCode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Praveenuppuluri/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Praveenuppuluri/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Praveenuppuluri/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
