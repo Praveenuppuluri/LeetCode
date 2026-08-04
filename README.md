@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Praveenuppuluri/LeetCode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Praveenuppuluri/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Praveenuppuluri/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0401-binary-watch](https://github.com/Praveenuppuluri/LeetCode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Praveenuppuluri/LeetCode/tree/master/0494-target-sum) |
 ## Depth-First Search
 |  |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/Praveenuppuluri/LeetCode/tree/master/0401-binary-watch) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Praveenuppuluri/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
 |  |
