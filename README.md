@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Praveenuppuluri/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0854-k-similar-strings](https://github.com/Praveenuppuluri/LeetCode/tree/master/0854-k-similar-strings) |
 | [1143-longest-common-subsequence](https://github.com/Praveenuppuluri/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1859-sorting-the-sentence](https://github.com/Praveenuppuluri/LeetCode/tree/master/1859-sorting-the-sentence) |
 ## Hash Table
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Praveenuppuluri/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Praveenuppuluri/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1859-sorting-the-sentence](https://github.com/Praveenuppuluri/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Praveenuppuluri/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Praveenuppuluri/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Heap (Priority Queue)
@@ -371,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Praveenuppuluri/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/Praveenuppuluri/LeetCode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
