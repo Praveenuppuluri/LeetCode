@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Praveenuppuluri/LeetCode/tree/master/0401-binary-watch) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Praveenuppuluri/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Praveenuppuluri/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
 |  |
@@ -359,4 +360,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Praveenuppuluri/LeetCode/tree/master/0002-add-two-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Praveenuppuluri/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Praveenuppuluri/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
